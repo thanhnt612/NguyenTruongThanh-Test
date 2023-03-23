@@ -1,0 +1,20 @@
+.home {
+  min-height: 1200px;
+  .search-filter {
+    .room {
+      padding-top: 50px;
+      .card-body {
+        .item {
+          padding: 20px;
+          .thumbnail {
+            img {
+              height: 350px;
+            }
+          }
+          .detail {
+          }
+        }
+      }
+    }
+  }
+}
